@@ -10,7 +10,7 @@
                                               (open to offers)
 ```
 --- 
-[LinkedIn](https://www.linkedin.com/in/oliver-fa%C5%A1ko-442b12380/) | [Codeberg](https://codeberg.org/targetsk) | personal site (in the future)
+[LinkedIn](https://www.linkedin.com/in/oliver-fa%C5%A1ko-442b12380/) | [Codeberg](https://codeberg.org/targetsk) | [website](oliverdev.tech)
 
 ---
 

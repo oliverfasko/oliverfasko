@@ -10,7 +10,7 @@
                                               (open to offers)
 ```
 --- 
-[Personal website](oliverdev.tech) | [LinkedIn](https://www.linkedin.com/in/oliver-fa%C5%A1ko-442b12380/)
+[Personal website](https://oliverdev.tech) | [LinkedIn](https://www.linkedin.com/in/oliver-fa%C5%A1ko-442b12380/)
 
 ---
 

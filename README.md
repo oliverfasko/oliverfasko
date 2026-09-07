@@ -1,13 +1,13 @@
 ```
   ________
 < About me >                      - My name is Oliver
-  --------                        - I like low level programing, FOSS and UNIXlike operating systems
-         \   ^__^                 - I am in second year of university - Computer networking
-          \  (oo)\_______         
+  --------                        - I am in second year of university - Computer networking
+         \   ^__^                 - I work as a python (junior) developer
+          \  (oo)\_______                     (open to offers)
              (__)\       )\/\\    
                  ||----w |
-                 ||     ||        - I work as a python (junior) developer
-                                              (open to offers)
+                 ||     ||        
+                                              
 ```
 --- 
 [Personal website](https://oliverdev.tech) | [LinkedIn](https://www.linkedin.com/in/oliver-fa%C5%A1ko-442b12380/)

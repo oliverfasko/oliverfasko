@@ -3,8 +3,6 @@ Balancing a j*b with university<br>
 Solo learning: x86 asm<br>
 School: C++, electrical engineering, CCNA2...
  
-[Personal website](https://oliverdev.tech) | [LinkedIn](https://www.linkedin.com/in/oliver-fa%C5%A1ko-442b12380/)
-
 ---
 ```
   __________________
